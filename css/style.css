@@ -734,7 +734,8 @@ body {
     cursor: pointer;
 }
 
-.footer {
+.footer,
+.footer a {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
     line-height: 28px;
